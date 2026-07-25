@@ -256,7 +256,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: dark-clarity
+      theme: default
       variation: null
 layout:
   groups:
